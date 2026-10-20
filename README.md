@@ -118,3 +118,9 @@ python3 tests/integration.py
 ```
 
 A integração usa duas aplicações genéricas e verifica HTTPS, redirecionamento, ciclo dos projetos, exclusão de manutenção, rejeição real pelo Nginx, mudança de porta e remoção de rotas. Não usa dados de aplicações existentes.
+
+## Licença
+
+Este projeto é disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
+
+Copyright (c) 2026 Vinicius da Conceição Teixeira. As dependências e imagens de terceiros permanecem sob suas respectivas licenças.
